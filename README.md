@@ -6,6 +6,6 @@ Project Members:
 
 | Name   | Phone Number  | Role  |
 | ------------- |:-------------:| -----:|
-| Hasan         | 01516112348   | Stack |
+| Hasan | 01516112348   | Stack |
 | Arafat        | 0             | Front |
 | Tushar        | 0             | Front |
