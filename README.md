@@ -4,7 +4,7 @@
 
 Project Members:
 
-| Name          | Phone Number  | Role  |
+| Name   | Phone Number  | Role  |
 | ------------- |:-------------:| -----:|
 | Hasan         | 01516112348   | Stack |
 | Arafat        | 0             | Front |
