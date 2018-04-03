@@ -2,10 +2,10 @@
 * Start From 4th April
 * We Complete within 20 April In_Sha_Allah
 
-Colons can be used to align columns.
+Project Members:
 
-| Tables        | Are           | Cool  |
+| Name          | Phone Number  | Role  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Hasan         | 01516112348   | Stack |
+| Arafat        | 0             | Front |
+| Tushar        | 0             | Front |
