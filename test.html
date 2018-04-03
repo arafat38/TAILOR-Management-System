@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>JavaScript World</title>
+        <link rel="stylesheet" type="text/css" href="main.css">
+    </head>
+    <body>
+        <section class = "content">
+            <div class="header">
+                <h2><script>document.write("JavaScript");</script></h2>
+            </div>
+            <div class="maincontent">
+            <h4 class="murikha"><script>document.write("Topics : Functions and variable scope");</script></h4>
+                <script>
+                    var color = "Green" // Global Variable
+                    var color2 = "White";
+                    function ShowColor() { // Scope
+                        var color = "Red"; // Local Variable
+                        window.color2 = "Black"; // color2 = "Black"
+                        document.write("Inside: "+color) // Red
+                        document.write("</br>");
+                        document.write("Inside: "+color2) // Black
+                    }
+                    ShowColor();
+                    document.write("</br>");
+                    document.write("OutSide: "+color) // Green
+                    document.write("</br>");
+                    document.write("Inside: "+color2) // Black
+                </script>
+            </div>
+            <div class="footer">
+                <h2><script>document.write("Focus Forward");</script></h2>
+            </div>
+        </section>
+    </body>
+<html>
